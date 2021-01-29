@@ -1,1 +1,1 @@
-# jerosnavy.gitihub.io
+# jerosnavy.github.io
